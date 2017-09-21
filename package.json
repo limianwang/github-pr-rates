@@ -1,0 +1,17 @@
+{
+  "name": "jira-pr-rates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "easy-table": "^1.1.0",
+    "request": "^2.82.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Limian Wang <limian.wang@gmail.com>",
+  "license": "MIT"
+}

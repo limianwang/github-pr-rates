@@ -1,1 +1,1 @@
-# jira-pr-rates
+# github-pr-rates

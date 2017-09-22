@@ -1,5 +1,5 @@
 {
-  "name": "jira-pr-rates",
+  "name": "github-pr-rates",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
